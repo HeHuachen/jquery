@@ -21,6 +21,7 @@ define( [
 	getStyles, swap, curCSS, adjustCSS, addGetHookIf, support ) {
 
 "use strict";
+ 
 
 var
 
